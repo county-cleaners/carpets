@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcounty_cleaners=self.webpackChunkcounty_cleaners||[]).push([[738],{6723:function(s){s.exports=JSON.parse('{"allTagsPath":"/carpets/blog/tags","slug":"/carpets/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/carpets/blog/tags/docusaurus"}')}}]);

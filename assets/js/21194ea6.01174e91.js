@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcounty_cleaners=self.webpackChunkcounty_cleaners||[]).push([[874],{3228:function(e){e.exports=JSON.parse('{"allTagsPath":"/carpets/blog/tags","slug":"/carpets/blog/tags/hello","name":"hello","count":2,"permalink":"/carpets/blog/tags/hello"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcounty_cleaners=self.webpackChunkcounty_cleaners||[]).push([[109],{8169:function(e){e.exports=JSON.parse('{"permalink":"/carpets/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
